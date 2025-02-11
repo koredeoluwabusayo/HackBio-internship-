@@ -1,1 +1,1 @@
-# HackBio-internship-
+# HackBio-internship- This task is to organize information about myself using any data structure of my choice. I chose the "data frame" structure with my preferred programming language, "R," and I inputted my information using the data frame format. here's a final print statement to get an output that organizes the information in the above order.
