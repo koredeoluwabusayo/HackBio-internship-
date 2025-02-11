@@ -1,0 +1,10 @@
+Roleola_data <- data.frame(
+    name = c("Roleola Oluwabusayo Korede"),
+    slack_username = c("Roleola"),
+    email = c("koredeoluwabusayo32@gmail.com"),
+    hobby = c("playing musical instrument"),
+    country = c("Nigeria"),
+    discipline = c("Zoology"),
+    programming_language = c("R")
+)
+print(Roleola_data)
